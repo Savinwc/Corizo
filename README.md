@@ -36,6 +36,7 @@ Dataset Overview
 The dataset used is named the GTZAN genre collection dataset which is a very popular audio collection dataset. It contains approximately 1000 audio files that belong to 10 different classes. Each audio file is in .wav format (extension). The classes to which audio files belong are Blues, Hip-hop, classical, pop, Disco, Country, Metal, Jazz, Reggae, and Rock.
 
 Hands-on Implementation of Music Genre Classification Project :
+
 1)Import required libraries
 
 2)Define a function to calculate distance between feature vectors, and to find neighbours.
