@@ -55,6 +55,9 @@ Approximately 70 per cent accuracy was achieved on the model.
 
 # Major takeaways(Major Project)
 1.The main thing to identify and divide the audio into different features is amplitude and frequency that changes within a short span of time.
+
 2.We can visualize the audio frequency wave of amplitude and frequency with respect to time in form of a wave plot that can be easily plotted using librosa.
+
 3.MFCCs total provides 39 features related to frequency and amplitude. In that 12 parameters are related to the amplitude of frequencies. It means it provides us with enough frequency channels to analyze audio and this is the reason MFCCs are used everywhere for feature extraction in audios.
+
 4.The key working of MFCC is to remove vocal excitation (pitch information) by dividing audio into frames, make extracted features independent, adjust the loudness, and frequency of sound according to humans, and capture the context.
