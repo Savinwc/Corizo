@@ -37,13 +37,21 @@ The dataset used is named the GTZAN genre collection dataset which is a very pop
 
 Hands-on Implementation of Music Genre Classification Project :
 1)Import required libraries
+
 2)Define a function to calculate distance between feature vectors, and to find neighbours.
+
 3)Identify the class of nearest neighbours
+
 4)Model Evaluation
+
 5)Feature Extraction
+
 6)Train-test split the dataset
+
 7)Calculate the distance between two instance
+
 8)Training the Model and making predictions
+
 9)Test the Classifier with the new Audio File
 
 # This project is made using kaggle notebook and gitzan dataset.
